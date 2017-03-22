@@ -1,0 +1,6 @@
+com\niit\shopgirl\Controller\SupplierController.class
+com\niit\shopgirl\Controller\CartController.class
+com\niit\shopgirl\Controller\HomeController.class
+com\niit\shopgirl\Controller\CategoryController.class
+com\niit\shopgirl\Controller\AdminController.class
+com\niit\shopgirl\security\CustomSuccessHandler.class

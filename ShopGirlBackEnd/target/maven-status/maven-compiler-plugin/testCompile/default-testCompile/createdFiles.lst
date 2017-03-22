@@ -1,0 +1,9 @@
+com\niit\shopgirlbackend\ProductDAOTestCase.class
+com\niit\shopgirlbackend\SupplierDAOTestCase.class
+com\niit\shopgirlbackend\UserDAOTestCase.class
+com\niit\shopgirlbackend\BillingAddressDAOTestCase.class
+com\niit\shopgirlbackend\ShippingAddressDAOTestCase.class
+com\niit\shopgirlbackend\CartDAOTestCase.class
+com\niit\shopgirlbackend\CategoryDAOTestCase.class
+com\niit\shopgirlbackend\OrderDAOTestCase.class
+com\niit\shopgirlbackend\PaymentMethodDAOTestCase.class
